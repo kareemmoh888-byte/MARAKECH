@@ -1,9 +1,24 @@
 # Gazelle Crossover — Reels & Stories Plan
 
-All videos are 1080×1920, 30fps, H.264 + AAC (original, copyright-free score).
+All videos are 1080×1920, 30fps, H.264, **silent** (add a trending sound in Instagram).
 Contact details on every end card / CTA: **WhatsApp +20 102 906 1818 · www.gazellecrossover.com**. No prices anywhere.
 
-> Tip: the reels already carry an original score. If you'd rather use a trending Instagram sound, mute the original in the editor and pick the track there.
+---
+
+## ⭐ Main reel for the trip — "One day in the Eastern Desert" (23.10.2026)
+
+`TRIP/REEL_One_Day_In_The_Eastern_Desert.mp4` — 47s, the whole day in order:
+01 The Canyon → 02 The Gathering → 03 Golden Hour → 04 Nightfall & dinner → "Until the next sunset" → end card.
+
+This is the only reel for this trip. Everything else in `TRIP/` (including the two shorter reels) is posted as **stories**.
+
+**Caption:**
+> One day in Egypt's Eastern Desert — from hidden canyons in the afternoon, to a sky on fire at sunset, to a lantern-lit dinner under the stars. 🏜️🌅🕯️
+> Private. Unhurried. Yours.
+> 📲 WhatsApp +20 102 906 1818
+> 🌐 www.gazellecrossover.com
+>
+> #GazelleCrossover #Hurghada #EasternDesert #DesertDinner #DesertSunset #RedSeaMountains #PrivateTour #ElGouna #MakadiBay #SomaBay #EgyptTravel
 
 ---
 
