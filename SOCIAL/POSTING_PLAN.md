@@ -7,8 +7,10 @@ Contact details on every end card / CTA: **WhatsApp +20 102 906 1818 · www.gaze
 
 ## ⭐ Main reel for the trip — "One day in the Eastern Desert" (23.10.2026)
 
-`TRIP/REEL_One_Day_In_The_Eastern_Desert.mp4` — 47s, the whole day in order:
-01 The Canyon → 02 The Gathering → 03 Golden Hour → 04 Nightfall & dinner → "Until the next sunset" → end card.
+`TRIP/REEL_One_Day_Serenity.mp4` — 62s, **serene cut** (approved style): slow dissolves, no chapter numbers, the whole day in order:
+The Canyon → The Gathering → Golden Hour → Nightfall & dinner → "Until the next sunset" → end card "Serenity, in the desert."
+
+(Earlier energetic version kept as `TRIP/REEL_One_Day_In_The_Eastern_Desert.mp4`.)
 
 This is the only reel for this trip. Everything else in `TRIP/` (including the two shorter reels) is posted as **stories**.
 
